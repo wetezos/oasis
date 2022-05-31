@@ -1,0 +1,92 @@
+{
+  "software_version": "22.1.3",
+  "identity": {
+    "node": "UcSDvbiE2HGcWbm65KCsmuZiplA3F4oXDYdKcZ7/q1w=",
+    "p2p": "MBd735s8Aj4BCGQfpv78aBCzGXj4HcESpkG8KigeN88=",
+    "consensus": "ty6JHe0xrER4gI7klIkbt7nCg1HT0WnEgkqFyBKKMTg=",
+    "tls": [
+      "Cpckg2fvbeQ2jr2COFjiFTcJbgiMEdh0xIsSB7jF9iU=",
+      "TbfxVQ0bYNMswIw4vakP2VBd5DWJU5i4xdx7+5lHKO8="
+    ]
+  },
+  "consensus": {
+    "version": {
+      "major": 6
+    },
+    "backend": "tendermint",
+    "features": 3,
+    "node_peers": [
+      "5fbae16d76293c8700dd407331d7f0c717c3ab6a@136.243.103.147:40656",
+      "b8994b04adf1393b4957ccfd3406361455046897@159.69.59.60:26656",
+      "006a3affd553e936dfb1d840d89663105e942412@142.132.201.67:26656",
+      "666f0a581567775ad1e8fef4b956a45c37c0f318@5.9.35.85:26000",
+      "4eeba1ead5b7ede2c968426d0104935bf7ee8a49@138.201.39.183:28856",
+      "4b09be0737402c8bc3bfce0424e0e082e4e8c207@23.88.56.166:26656",
+      "5f40ab6f70a4ba09f4553521926948705f5f3e89@194.163.169.33:26656",
+      "20e439cc96009cb9b996ddc19cffc32cebc2f26d@65.108.43.199:35656",
+      "4390496facda27743a10c2c0c5ff2c7e454e6e5d@95.216.37.80:46656",
+      "bbfac1c724eb4e3f7787b6b2db96f99fda5d252d@65.108.6.54:29656",
+      "e779a598b075a94f60982a003959a3941006989b@175.136.166.214:36140",
+      "132111486911a7eca4eca01052209504fb0fac34@135.181.56.199:26656",
+      "9d29bf3d541b64b5470b9f8aa76ff8b2c8587f98@34.86.108.137:26656",
+      "3034b588dfa864abc95dfc6da53528737c31d1f0@54.65.29.169:4644",
+      "82af2cf1624cebbf3cb91efb0639c4296d8fd434@51.222.154.19:26656",
+      "850bbd66156a3f41f4f9391d0fa00407e154c49c@80.64.208.66:26656",
+      "bb9c922f2053f34573d8abad872c7eb4f34d9ed6@119.13.81.184:26656",
+      "ed8d710f7ba7a12df9f143a62aac322300124653@159.69.183.181:26656",
+      "b6b37585f08baa3dfbf8cf0e21a8bb398a2d36af@93.107.154.131:26656",
+      "b22d7ed700f22390e0f4e3de051561b032a80818@152.228.227.65:26656",
+      "e27f6b7a350b4cc2b48a6cbe94b0a02b0dcb0bf3@35.199.49.168:52514",
+      "c9176a10eedf32d1f9686ac7e8c6992d2e4941e0@20.106.140.161:44536",
+      "9b608c52c56f1fefb7892c9b9ee71d35901aaa20@3.34.119.21:46040",
+      "1afbb2ccd0c27f9ef26f9e04e762a2e0eda432d0@195.14.6.13:40138",
+      "94b0dd0e5ef296c59a75a2b0aa1af609c94c0c35@51.91.75.150:57020",
+      "b1d097f13ef504dcc003dc1948ab28a420c402a4@135.181.1.160:38726",
+      "ed79e9d9395ad9a5349a59c26b9810a2dda59223@52.159.79.124:51704",
+      "1f455b89bc29640c455354b31eecb6bb832edaab@89.202.64.28:39592",
+      "b7fbebaae5540dcc6548e5125ba5a3192e594c91@119.8.185.23:59140",
+      "979e354c6076b53dcd1a3f52d46535969f6988f7@35.240.41.208:58138",
+      "5e2538898cba75f1d58a9a8bc33059a72d8ec80e@174.138.162.2:45518",
+      "8402cf18233e41efd2591460e203a9d22de5b789@18.141.212.210:41120",
+      "4b4fc0cd9440d00d48566a0358be6022e51cba9a@168.119.77.200:46656",
+      "1f5407d4064698eaffce24bc865911444eea876c@34.136.98.20:26656",
+      "89ada02f0923aed4c8dc275cde781ed20a6fb988@54.187.171.212:52230",
+      "d61b2aee51d6ccb485814d261d852988f22a3d93@150.109.148.233:49968"
+    ],
+    "latest_height": 8772546,
+    "latest_hash": "d9001a818e4b1db705743387d4d6abc7838982e048c0ea4e1e1ac207b86ac105",
+    "latest_time": "2022-05-31T03:19:02+02:00",
+    "latest_epoch": 14607,
+    "latest_state_root": {
+      "ns": "0000000000000000000000000000000000000000000000000000000000000000",
+      "version": 8772545,
+      "root_type": 1,
+      "hash": "720baf6a31c9c8a7fbb7c241c2307fc2bd96c62c8a531c39e6c6b476dc361d9b"
+    },
+    "genesis_height": 8048956,
+    "genesis_hash": "0a29ac21fa69bb9e43e5cb25d10826ff3946f1ce977e82f99a2614206a50765c",
+    "last_retained_height": 8048956,
+    "last_retained_hash": "0a29ac21fa69bb9e43e5cb25d10826ff3946f1ce977e82f99a2614206a50765c",
+    "chain_context": "b11b369e0da5bb230b220127f5e7b242d385ef8c6f54906243f30af63c815535",
+    "is_validator": false
+  },
+  "runtimes": {
+    "000000000000000000000000000000000000000000000000e199119c992377cb": {
+      "descriptor": {
+        "v": 3,
+        "id": "000000000000000000000000000000000000000000000000e199119c992377cb",
+        "entity_id": "TAv9qXjV4yBphnKLJcNkzois1TLoYUjaRPrMfY58Apo=",
+        "genesis": {
+          "state_root": "c672b8d1ef56ed28ab87c3622c5114069bdd3ad7b8f9737498d0c01ecef0967a",
+          "round": 0
+        },
+        "kind": 1,
+        "tee_hardware": 1,
+        "executor": {
+          "group_size": 5,
+          "group_backup_size": 11,
+          "allowed_stragglers": 1,
+          "round_timeout": 5,
+          "max_messages": 256
+        },
+        "txn_schedule
